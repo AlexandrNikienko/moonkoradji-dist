@@ -1,0 +1,23 @@
+{
+	"purchase": {
+		"title": "Out now",
+		"subtitle": "Fresh psychedelic sounds",
+		"item": {
+			"cover": {
+				"default": "mkrl018_shiibashunsuke_innermatics.jpg",
+				"default2x": "",
+				"webp": "mkrl018_shiibashunsuke_innermatics-500.webp",
+				"webp2x": "mkrl018_shiibashunsuke_innermatics-1000.webp"
+			},
+			"title": "Shiibashunsuke",
+			"subtitle": "Innermatics",
+			"button": {
+				"title": "More Info",
+				"routerLink": "releases/shiibashunsuke-innermatics"
+			}
+		},
+		"deals": [
+
+		]
+	}
+}
